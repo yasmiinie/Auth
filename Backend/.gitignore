@@ -1,0 +1,44 @@
+# Dependency directories
+node_modules/
+
+# Environment variables file
+.env
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Directory for storing cached data
+cache
+
+# Editor specific files
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Optional: Uncomment the following if using TypeScript
+# Ignore built TypeScript files
+# *.js
+# Ignore type definitions
+# *.d.ts
+
+# Optional: Uncomment the following if using Webpack or other bundlers
+# Ignore build output
+# dist/
+# webpack.config.js
+
+# Optional: Uncomment the following if using a package manager lock file
+# Lock file
+# package-lock.json
+# yarn.lock
